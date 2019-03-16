@@ -3,3 +3,4 @@ markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-sitemap
+exclude: ['README', 'CNAME', 'Gemfile', 'Gemfile.lock']
