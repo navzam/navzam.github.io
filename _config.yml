@@ -4,4 +4,8 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
 theme: null
-exclude: ['README', 'CNAME', 'Gemfile', 'Gemfile.lock']
+exclude:
+  - README
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
