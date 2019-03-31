@@ -1,9 +1,21 @@
 name: Nafis Zaman
+title: nafis.dev
+author: Nafis Zaman
+email: nafis@ou.edu
+description: Nafis develops things
 markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-sitemap
-theme: null
+
+# Theme
+theme: minima
+twitter_username: navzam
+github_username: navzam
+linkedin_username: nafiszaman
+show_excerpts: true
+
+# Files to exclude from site
 exclude:
   - README
   - CNAME
