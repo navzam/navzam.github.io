@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Multiple Cursors in Visual Studio Code"
+title: "Multiple Cursors in Visual Studio Code"
 date: 2019-04-05
 ---
 
