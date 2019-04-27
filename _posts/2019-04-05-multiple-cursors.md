@@ -6,6 +6,8 @@ date: 2019-04-05
 
 Programming using multiple cursors had always been a mystery to me. I had seen it before when digging through editor settings, but I had never bothered to actually try it until recently. Now I use it every day, and I keep finding new ways to speed up otherwise tedious tasks.
 
+<!--more-->
+
 Multiple cursors is exactly what it sounds like: it lets you place more than one cursor in your editor so you can edit multiple locations at the same time. It sounds like more trouble than it’s worth, but once you learn the shortcuts, it becomes natural.
 
 Visual Studio Code is my go-to editor nowadays, and it comes with multiple cursor support out of the box. Here are the important shortcuts in Visual Studio Code (on Windows):

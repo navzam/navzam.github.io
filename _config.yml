@@ -14,6 +14,7 @@ twitter_username: navzam
 github_username: navzam
 linkedin_username: nafiszaman
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Files to exclude from site
 exclude:
