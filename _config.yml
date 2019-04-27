@@ -21,3 +21,6 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+
+# Custom variables
+images_path: /assets/images/
