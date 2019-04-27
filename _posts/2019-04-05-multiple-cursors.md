@@ -111,3 +111,5 @@ If you position exactly 5 cursors in your file and paste, 1 name will be pasted 
 {% include image.html file="2019-04-05-multiple-cursors/multi-replace.gif" alt="GIF that shows multiple words being replaced by different words in a single paste" %}
 
 I’ll leave the steps out — try it for yourself!
+
+> Note: I originally [published this on Medium](https://medium.com/@nafiszaman/multiple-cursors-visual-studio-code-a2e2f531c5b5) a while back. I decided to rewrite it here to keep all of my posts in the same place.
