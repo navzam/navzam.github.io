@@ -25,3 +25,4 @@ exclude:
 
 # Custom variables
 images_path: /assets/images/
+azure_ai: c6ed57b6-de38-4cec-8876-59a445458356
